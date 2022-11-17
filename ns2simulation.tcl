@@ -82,7 +82,7 @@ $ns duplex-link $n19 $n13 12Mb 100ms DropTail
 $ns duplex-link $n13 $n14 6Mb 200ms DropTail
 
 
-# queue limit - it can hold maximum 20 packets
+# queue limit - it can hold maximum n packets
 $ns queue-limit $n13 $n14 40
 
 #queue monitoring
