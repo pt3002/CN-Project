@@ -4,7 +4,6 @@ import requests, sys, logging
 # sys module for directly interacting with system interpreter
 # logging - write status message to a file - info, debug, warning, error
 
-import numpy as np
 import pandas as pd
 import arrow as ar
 import matplotlib.pyplot as plt
